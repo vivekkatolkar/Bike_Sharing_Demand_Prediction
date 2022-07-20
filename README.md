@@ -17,48 +17,48 @@ We are tasked with predicting the number of bikes rented each hour so as to make
 
  We are given the following columns in our data:
 
-Date : year-month-day
+* Date : year-month-day
 
-Rented Bike count - Count of bikes rented at each hour
+* Rented Bike count - Count of bikes rented at each hour
 
-Hour - Hour of the day
+* Hour - Hour of the day
 
-Temperature-Temperature in Celsius
+* Temperature-Temperature in Celsius
 
-Humidity - %
+* Humidity - %
 
-Wind Speed - m/s
+* Wind Speed - m/s
 
-Visibility - 10m
+* Visibility - 10m
 
-Dew point temperature - Celsius
+* Dew point temperature - Celsius
 
-Solar radiation - MJ/m2
+* Solar radiation - MJ/m2
 
-Rainfall - mm
+* Rainfall - mm
 
-Snowfall - cm
+* Snowfall - cm
 
-Seasons - Winter, Spring, Summer, Autumn
+* Seasons - Winter, Spring, Summer, Autumn
 
-Holiday - Holiday/No holiday
+* Holiday - Holiday/No holiday
 
-Functional Day - No(Non Functional Hours), Yes(Functional hours)librariefit
+* Functional Day - No(Non Functional Hours), Yes(Functional hours)librariefit
 
 
 #Steps involved
 
-Installing libraies and getting the dataset.
+- Installing libraies and getting the dataset.
 
-Performing EDA (exploratory data analysis).
+- Performing EDA (exploratory data analysis).
 
-Drawing conclusions from the data.
+- Drawing conclusions from the data.
 
-Preprocessing the data.
+- Preprocessing the data.
 
-Training different models.
+- Training different models.
 
-Evaluating metrics of all the models.
+- Evaluating metrics of all the models.
 
 
 
