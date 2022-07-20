@@ -43,7 +43,7 @@ Seasons - Winter, Spring, Summer, Autumn
 
 Holiday - Holiday/No holiday
 
-Functional Day - No(Non Functional Hours), Yes(Functional hours)
+Functional Day - No(Non Functional Hours), Yes(Functional hours)librariefit
 
 
 #Steps involved
@@ -64,14 +64,14 @@ Evaluating metrics of all the models.
 
 #Algorithms used
 
-Linear Regression
-
-Decision Tree Regressor
-
-Random Forest Regressor
-
-Extra Trees Regressor
-
+Linear Regression .
+Lasso Regression.
+Ridge Regression.
+Decision Regressor.
+Random Regressor.
+Gradient Boosted Regressor.
+Gradient Boosted Regressor With Grid Search C V.
+ 
 
 #Conclussion
 
