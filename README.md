@@ -64,25 +64,31 @@ Evaluating metrics of all the models.
 
 #Algorithms used
 
-Linear Regression .
-Lasso Regression.
-Ridge Regression.
-Decision Regressor.
-Random Regressor.
-Gradient Boosted Regressor.
-Gradient Boosted Regressor With Grid Search C V.
+1 Linear Regression .
+
+2 Lasso Regression.
+
+3 Ridge Regression.
+
+4 Decision Regressor.
+
+5 Random Regressor.
+
+6 Gradient Boosted Regressor.
+
+7 Gradient Boosted Regressor With Grid Search C V.
  
 
 #Conclussion
 
 We used R2-score to understand which model fit our data better, and the scores are as follows:
 
-Linear Regression - 0.77221
+1 Linear Regression - 0.77221
 
-Decision Tree Regressor - 0.57645
+2 Decision Tree Regressor - 0.57645
 
-Random Forest Regressor - 0.98974
+3 Random Forest Regressor - 0.98974
 
-Extra Trees Regressor -  0.62611
+4 Gradient Boosted Regressor - 0.87890
 
 Its evident from above that the Extra trees regressor model performed well in fitting the data with R2-score of 0..62. The model which performed poorly was elastic net regularization with R2-score of 0..61.
