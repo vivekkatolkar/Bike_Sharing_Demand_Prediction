@@ -2,18 +2,19 @@
 Analysis Of Data In Bike Sharing Demand Prediction
 
 
-##Inrtoduction
+#Inrtoduction
+
              Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 
 
-##Problem statement
+#Problem statement
 
 We are tasked with predicting the number of bikes rented each hour so as to make an approximate estimation of the number of bikes to be made available to the public given a particular hour of the day.
 
 
-##Overview of the data
+#Overview of the data
 
-We are given the following columns in our data:
+ We are given the following columns in our data:
 
 Date : year-month-day
 
@@ -44,7 +45,7 @@ Holiday - Holiday/No holiday
 Functional Day - No(Non Functional Hours), Yes(Functional hours)
 
 
-##Steps involved
+#Steps involved
 
 Installing libraies and getting the dataset.
 
@@ -60,7 +61,7 @@ Evaluating metrics of all the models.
 
 
 
-##Algorithms used
+#Algorithms used
 
 Linear Regression
 
@@ -71,7 +72,7 @@ Random Forest Regressor
 Extra Trees Regressor
 
 
-##Conclussion
+#Conclussion
 
 We used R2-score to understand which model fit our data better, and the scores are as follows:
 
